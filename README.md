@@ -1,4 +1,4 @@
-<p align="center"><a href=""><img width="80%" alt="Hello, I'm Viren. I contribute to open source projects!" src="" /></a></p>
+# Hi there, I'm Viren! 👋
 
 ## About Me
 
