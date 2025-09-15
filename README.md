@@ -9,10 +9,11 @@
 
 ## My Skills
 
-- **Frontend:** HTML, CSS, JavaScript (ES6+),TypeScript, React.js, Redux.js, Vite.js
-- **Backend:** Node.js, Express.js, MongoDB, MySQL
-- **Devops:** GitHub Actions, Gitlab CI
-- **Tools & Technologies:** npm, REST APIs, Github, Cloudflare
+- **Frontend**: HTML, CSS, Bootstrap, Tailwind CSS, Material-UI, Ant Design, JavaScript (ES6+), TypeScript, React.js, Redux.js, Context API, Vite.js, Next.js
+- **Backend & APIs**: Node.js, Express.js, RESTful APIs, JWT, OAuth
+- **Databases**: MongoDB, MySQL, SQLite
+- **Version Control**: Git, GitHub, Gitlab CI
+- **Tools & Technologies**: VS Code, Postman, Jira, Slack, Microsoft Teams, npm, Cloudflare
 
 ## Fun Facts
 
