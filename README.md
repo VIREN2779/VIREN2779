@@ -4,12 +4,12 @@
 
 - 🌐 I’m **VIREN PATADIYA**
 - 👀 I’m passionate about building dynamic and responsive websites.
-- 🌱 Currently, I’m expanding my knowledge in **Full Stack Web Development**.
+- 🌱 Currently, I’m expanding my knowledge in **Full Stack Development**.
 - 💻 I specialize in Full Stack Development, particularly using **React Js** for the frontend and **Node Js** for the backend.
 
 ## My Skills
 
-- **Frontend**: HTML, CSS, Bootstrap, Tailwind CSS, Material-UI, Ant Design, JavaScript (ES6+), TypeScript, React.js, Redux.js, Context API, Vite.js, Next.js
+- **Frontend**: HTML, CSS, Bootstrap, Tailwind CSS, Material-UI, Ant Design, JavaScript (ES6+), TypeScript, React.js, Redux, Context API, Vite.js, Next.js
 - **Backend & APIs**: Node.js, Express.js, RESTful APIs, JWT, OAuth
 - **Databases**: MongoDB, MySQL, SQLite
 - **Version Control**: Git, GitHub, Gitlab CI
