@@ -9,7 +9,7 @@
 
 ## My Skills
 
-- **Frontend**: HTML, CSS, Bootstrap, Tailwind CSS, Material-UI, Ant Design, JavaScript (ES6+), TypeScript, React.js, Redux, Context API, Vite.js, Next.js
+- **Frontend**: HTML, CSS, Bootstrap, Tailwind CSS, Material-UI, Ant Design, JavaScript (ES6+), TypeScript, React.js, Redux, Context API, Vite.js, Next.js, Shadcn UI.
 - **Backend & APIs**: Node.js, Express.js, RESTful APIs, JWT, OAuth
 - **Databases**: MongoDB, MySQL, SQLite
 - **Version Control**: Git, GitHub, Gitlab CI
