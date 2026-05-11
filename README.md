@@ -22,7 +22,7 @@
 
 ## Get in Touch
 
-- 📫 How to reach me: [virenpatadiya073@gmail.com]
+- 📫 How to reach me: [virenpatadiya2779@gmail.com]
 - 💬 Let's connect and collaborate!
 
 ---
