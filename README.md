@@ -11,7 +11,7 @@
 
 - **Frontend**: HTML, CSS, Bootstrap, Tailwind CSS, Material-UI, Ant Design, JavaScript (ES6+), TypeScript, React.js, Redux, Context API, Vite.js, Next.js, Shadcn UI.
 - **Backend & APIs**: Node.js, Express.js, RESTful APIs, JWT, OAuth
-- **Databases**: MongoDB, MySQL, SQLite
+- **Databases**: MongoDB, MySQL, SQLite, PostgreSQL
 - **Version Control**: Git, GitHub, Gitlab CI
 - **Tools & Technologies**: VS Code, Postman, Jira, Slack, Microsoft Teams, npm, Cloudflare
 
