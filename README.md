@@ -20,11 +20,20 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving puzzles and enjoy a good game of chess!
 
-## Get in Touch
+### 📊 GitHub Stats
 
-- 📫 How to reach me: [virenpatadiya073@gmail.com]
-- 💬 Let's connect and collaborate!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VIREN2779&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VIREN2779&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIREN2779&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
+</p>
+
+---
+
+<p align="center"><i>Let's connect and build something great together 🚀</i></p>
 ---
 
 <!---
