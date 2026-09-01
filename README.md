@@ -2,23 +2,21 @@
 <h3 align="center">Full Stack Developer | React.js • Node.js • Cloudflare</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86DE&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps+with+React+%26+Node.js;2.5%2B+years+of+full-stack+experience;Working+with+the+Cloudflare+Developer+Platform;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86DE&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps+with+React+%26+Node.js;2.5%2B+years+of+full-stack+experience;Working+with+the+Cloudflare+Developer+Platform" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="mailto:virenpatadiya073@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Location-Ahmedabad%2C%20India-2E86DE?style=for-the-badge"/>
+  <a href="https://www.linkedin.com/in/viren-patadiya-5029561a0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://viren-patadiya.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 Currently building **WhatsApp Business, dashboard & Cloudflare-based platforms** at **161apps**
+- 🔭 Currently building **WhatsApp Business Platform, dashboards & Cloudflare-based platforms** at **161apps**
 - 🌐 I specialize in **React.js** on the frontend and **Node.js / Express.js** on the backend
-- ☁️ Working daily with the **Cloudflare Developer Platform** — Workers, D1, KV & R2
 - 🌱 Currently deepening my skills in **Full Stack Development**
 - ♟️ Fun fact: I love solving puzzles and a good game of chess!
 - 📫 Reach me at **virenpatadiya073@gmail.com**
