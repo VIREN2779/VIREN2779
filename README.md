@@ -2,11 +2,12 @@
 <h3 align="center">Full Stack Developer | React.js • Node.js • Cloudflare</h3>
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86DE&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps+with+React+%26+Node.js;2.5%2B+years+of+full-stack+experience;Working+with+the+Cloudflare+Developer+Platform" alt="Typing SVG" /> </p>
+
 ---
 
 ### 🚀 About Me
 
-- 🔭 Currently building **WhatsApp Business Platform, dashboards & Cloudflare-based platforms** at **161apps**
+- 🔭 Currently building **WhatsApp Business management platforms, chatbots, dashboards, and stock management systems**
 - 🌐 I specialize in **React.js** on the frontend and **Node.js / Express.js** on the backend
 - 🌱 Currently deepening my skills in **Full Stack Development**
 - ♟️ Fun fact: I love solving puzzles and a good game of chess!
