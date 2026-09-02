@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Viren Patadiya</h1>
 <h3 align="center">Full Stack Developer | React.js • Node.js • Cloudflare</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86DE&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps+with+React+%26+Node.js;2.5%2B+years+of+full-stack+experience;Working+with+the+Cloudflare+Developer+Platform" alt="Typing SVG" />
-</p>
-
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86DE&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps+with+React+%26+Node.js;2.5%2B+years+of+full-stack+experience;Working+with+the+Cloudflare+Developer+Platform" alt="Typing SVG" /> </p>
 ---
 
 ### 🚀 About Me
@@ -34,6 +31,7 @@
 **Cloud & Tools**
 
 <p> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> </p>
+
 ---
 
 <p align="center"><i>Let's connect and build something great together 🚀</i></p>
